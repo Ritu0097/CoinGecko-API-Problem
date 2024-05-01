@@ -1,0 +1,34 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.table.custom-table {
+    width: 60%; 
+    color: white; 
+    border-collapse: collapse;
+}
+
+.table.custom-table td {
+    border-bottom: 1px solid white; 
+}
+
+.table.custom-table img {
+    width: 20px; 
+    height: 20px; 
+}
+.green-text {
+    color: green;
+  }
+  
+  .red-text {
+    color: red;
+  }
+  
